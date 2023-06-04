@@ -17,9 +17,9 @@ I am currently building a lifesized humanoid robot. It is designated as ZomBot p
 
 Demo Videos
 
-[Networking options for zombot](https://youtu.be/EEflqj6hhYo)
-[Arduino Mega 2650 and ADXL 335 Accelerometer](https://youtu.be/2oqpLXz5E7I)
-[ESP32 Get WiFi networks](https://youtu.be/YOwQB7E35BQ)
+* [Networking options for zombot](https://youtu.be/EEflqj6hhYo)
+* [Arduino Mega 2650 and ADXL 335 Accelerometer](https://youtu.be/2oqpLXz5E7I)
+* [ESP32 Get WiFi networks](https://youtu.be/YOwQB7E35BQ)
 
 ## Network Communication
 
